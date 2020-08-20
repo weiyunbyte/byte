@@ -79,4 +79,6 @@ DD9AF44B 99C49590 D2DBDEE1 75860FD2
 
 ------
 \*
-
+--------------
+####vuex actions async
+* 使用async和await时，函数必须返回的事promise才行
