@@ -321,3 +321,6 @@ const {chooseTemplate} = require('./inquirers')
 
 start()
 ```
+
+## npm-check-updates
+* ncu 更新package版本
