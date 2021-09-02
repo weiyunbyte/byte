@@ -2,9 +2,7 @@
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 #
-# Auto install Shadowsocks Server (all version)
-#
-# Copyright (C) 2021 Teddysun <renwei@weiyunbyte.com>
+# Copyright (C) 2021 <renwei@weiyunbyte.com>
 #
 # System Required:  CentOS 6+, Debian7+, Ubuntu12+
 
